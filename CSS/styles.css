@@ -15,7 +15,7 @@ body {
 }
 
 h1 {
-  margin: 30px;
+  margin: 20px;
   font-family: 'Saira Stencil One', cursive;
   text-shadow: 5px 0 #232931;
   font-size: 8rem;
@@ -27,6 +27,7 @@ h2 a {
   text-decoration: none;
   color: rgb(190, 10, 19);
   font-size: 2rem;
+  
 }
 
 p {
@@ -34,6 +35,8 @@ p {
   font-weight: bolder;
   color: rgb(9, 40, 143);
   font-family: 'Turret Road', cursive;
+  margin-bottom: 5px;
+}
 }
 
 img {
